@@ -1,5 +1,7 @@
 # osixia/openldap
 
+Froked from [osixia/docker-openldap](https://github.com/osixia/docker-openldap) to add MemberOf attribute
+
 ![Docker Pulls](https://img.shields.io/docker/pulls/osixia/openldap.svg)
 ![Docker Stars](https://img.shields.io/docker/stars/osixia/openldap.svg)
 ![](https://images.microbadger.com/badges/image/osixia/openldap.svg)
